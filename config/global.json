@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Blog": {
+            "applicationId": "YOUR_APPLICATION_ID",
+            "masterKey": "YOUR_MASTER_KEY"
+        }, 
+        "_default": {
+            "link": "Blog"
+        }
+    }
+}
